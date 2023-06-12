@@ -1,0 +1,10 @@
+* core-reader
+
+Utilities for stream oriented reader.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hyotang666/core-reader.git   |
+| commit  | 9ee1968  |
+| systems | core-reader |
+|---------+-------------------------------------------|
+
